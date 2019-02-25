@@ -7,3 +7,7 @@ import os
 import numpy as np
 import tensorflow as tf
 from sklearn.preprocessing import MinMaxScaler
+from dotenv import load_dotenv
+
+load_dotenv()
+print(os.getenv("TEST"))

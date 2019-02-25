@@ -57,6 +57,7 @@ pyparsing==2.2.2
 PyQt5==5.11.3
 PyQt5-sip==4.19.13
 python-dateutil==2.7.5
+python-dotenv==0.10.1
 pytz==2018.7
 pyzmq==17.1.2
 requests==2.21.0
