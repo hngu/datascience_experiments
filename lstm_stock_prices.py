@@ -10,4 +10,4 @@ from sklearn.preprocessing import MinMaxScaler
 from dotenv import load_dotenv
 
 load_dotenv()
-print(os.getenv("TESTe"))
+print(os.getenv("TEST"))
